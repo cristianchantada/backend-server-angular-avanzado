@@ -23,6 +23,7 @@ const getTodo = async (req, res = response) => {
 
 const getDocumentosColeccion = async (req, res = response) => {
 
+  
   const tabla = req.params.tabla;
   const busqueda = req.params.busqueda;
 
