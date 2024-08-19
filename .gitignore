@@ -1,2 +1,10 @@
 .env
 node_modules/
+
+/uploads/hospitales/*
+/uploads/medicos/*
+/uploads/usuarios/*
+
+!/uploads/hospitales/
+!/uploads/medicos/
+!/uploads/usuarios/
